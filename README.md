@@ -17,4 +17,4 @@ To get started with this project, follow these steps:
 
 1. Clone this repository: 
    ```bash
-   git clone https://github.com/your-username/netflix-landing-page.git
+   git clone https://github.com/05Ashutosh/netflix-landing-page.git
